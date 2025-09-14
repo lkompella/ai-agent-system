@@ -1,0 +1,1 @@
+Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence. Key areas include machine learning, natural language processing, and computer vision.
